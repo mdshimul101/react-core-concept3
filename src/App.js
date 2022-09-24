@@ -47,7 +47,7 @@ function Counter() {
   const handleDecrease = () => setCount(count - 1);
   return (
     <div>
-      <h2>Hello</h2>
+      <h2>Hello Ablakambu</h2>
       <h3>Count : {count}</h3>
       <span>  </span>
       <button onClick={handleIncrease}>Increase</button>
